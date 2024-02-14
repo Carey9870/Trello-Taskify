@@ -1,6 +1,6 @@
 To view and interact with the project, please visit https://trello-taskify.vercel.app/
 
-# Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+# Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, SHADCN-UI, MySQL
 
 ![homepage](https://github.com/Carey9870/Trello-Taskify/assets/100701309/f6d7a101-b8c1-4e3c-89e7-68e6ac7e5c07)
 
